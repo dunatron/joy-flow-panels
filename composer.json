@@ -1,0 +1,25 @@
+{
+  "name": "dunatron/joy-flow-panels",
+  "description": "Adds a FlowLandingPage as a PageType.",
+  "keywords": [
+    "silverstripe",
+    "joy",
+    "flow",
+    "panels"
+  ],
+  "type": "silverstripe-module",
+  "require": {
+    "silverstripe/cms": "^3.2.0",
+    "silverstripe/framework": "^3.2.0"
+  },
+  "extra": {
+    "installer-name": "blog-featured-posts"
+  },
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Dunatron",
+      "email": "heath.dunlop.hd@gmail.com"
+    }
+  ]
+}
