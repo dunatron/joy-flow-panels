@@ -80,6 +80,9 @@ class FlowLandingPage_Controller extends Page_Controller
     public function init()
     {
         parent::init();
+        $moduleFolder = '/joy-flow-panels/';
+        Requirements::css($moduleFolder.'assets/css/app.css');
+
     }
 }
 
