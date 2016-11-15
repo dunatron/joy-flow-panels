@@ -13,7 +13,7 @@
     "silverstripe/framework": "^3.2.0"
   },
   "extra": {
-    "installer-name": "blog-featured-posts"
+    "installer-name": "joy-flow-panels"
   },
   "license": "BSD-3-Clause",
   "authors": [
