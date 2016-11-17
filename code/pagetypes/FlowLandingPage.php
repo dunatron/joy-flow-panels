@@ -7,8 +7,9 @@
  */class FlowLandingPage extends Page
 {
 
-    private static $singular_name        = "FlowLandingPage";
-    private static $plural_name          = "FlowLandingPages";
+    private static $singular_name        = "Flow Landing Page";
+    private static $plural_name          = "Flow Landing Pages";
+    private static $description = 'Flow Landing Page with ability to add flow panels (full, half, third, quarter)';
     private static $db = array();
     
     static $defaults = array (

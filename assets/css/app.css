@@ -68,6 +68,9 @@
   overflow: scroll;
   padding: 15px; }
 
+.flow-panels-wrapper .panel-title {
+  font-size: 28px; }
+
 .flow-panels-wrapper .panel-arrow {
   position: relative;
   height: 100%;
